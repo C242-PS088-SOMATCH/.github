@@ -1,7 +1,6 @@
 # SoMatch
 ## Find your perfect outfit match
-
-Tambahin gambar
+![Cover](https://github.com/user-attachments/assets/959f78b6-588a-4935-a1f0-9e83951b7144)
 SOMATCH is a data driven mobile app to simplifies your decision-making, encourages your self-expression, and helps you build cohesive, stylish wardrobes effortlessly.
 ### Background
 Fashion is a cornerstone of self-expression and cultural identity, yet selecting compatible outfits can be a daunting challenge, particularly for those without a background in style expertise. E-commerce data reveals that fashion transactions surpass other categories by over 70%, underscoring the need to simplify outfit selection. The main challenge is creating cohesive and harmonious ensembles from separate items while balancing style and color.
