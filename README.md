@@ -22,7 +22,7 @@ To address this, we propose a data-driven mobile app with two key features. Firs
 ***
 
 # Installation Guide
-1. Download the APK file from the provided link.
+1. Download the APK file.
 2. Ensure that your phone's settings allow installation from unknown sources.
 3. Open the APK file and tap "Install" to begin the installation process.
 
